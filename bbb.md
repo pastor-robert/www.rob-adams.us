@@ -34,7 +34,11 @@ bringing all things into harmony through Jesus Christ the Lord. **Amen.**
 
 # PROCLAMATION & RESPONSE
 
-## PSALM[^3] - Psalm 24
+<details>
+
+<summary>
+## PSALM - Psalm 24[^3]
+</summary>
 
 The earth belongs to God, along with everything on it. \
 Every person, every animal, every plant. \
@@ -54,6 +58,7 @@ Open up your gates. Break down the doors. \
 Our God is full of glory. \
 Again you ask, who is it again? \
 **Who is full of glory? The Lord our God is full of glory.**
+</details>
 
 ## CHILDREN’S SERMON
 
