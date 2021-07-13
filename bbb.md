@@ -1,179 +1,72 @@
-<!-- Output copied to clipboard! -->
 
-<!-----
-NEW: Check the "Suppress top comment" option to remove this info from the output.
 
-Conversion time: 2.624 seconds.
+Bellflower & Mt Vernon UMC
+==========================
 
 
-Using this Markdown file:
+July 11, 2021 - Seventh Sunday After Pentecost
+----------------------------------------------
 
-1. Paste this output into your source file.
-2. See the notes and action items below regarding this conversion run.
-3. Check the rendered output (headings, lists, code blocks, tables) for proper
-   formatting and use a linkchecker before you publish this page.
 
-Conversion notes:
 
-* Docs to Markdown version 1.0β30
-* Tue Jul 13 2021 11:38:57 GMT-0700 (PDT)
-* Source doc: 2021-07-11 Bulletin
-* Tables are currently converted to HTML tables.
-* This document has images: check for >>>>>  gd2md-html alert:  inline image link in generated source and store images to your server. NOTE: Images in exported zip file from Google Docs may not appear in  the same order as they do in your doc. Please check the images!
+# ENTRANCE[^1]
 
+## ANNOUNCEMENTS
 
-WARNING:
-You have 21 H1 headings. You may want to use the "H1 -> H2" option to demote all headings by one level.
+## BIRTHDAYS AND ANNIVERSARIES
 
------>
+## PRELUDE & CANDLE LIGHTING
 
+## OPENING PRAYER[^2]
 
-<p style="color: red; font-weight: bold">>>>>>  gd2md-html alert:  ERRORs: 0; WARNINGs: 1; ALERTS: 1.</p>
-<ul style="color: red; font-weight: bold"><li>See top comment block for details on ERRORs and WARNINGs. <li>In the converted Markdown or HTML, search for inline alerts that start with >>>>>  gd2md-html alert:  for specific instances that need correction.</ul>
+Holy Trinity, yours is the justice that calls power to account.\
+Yours is the love that calls sinners to repent.\
+Yours is the mercy that forgives us and grants us eternal life.
 
-<p style="color: red; font-weight: bold">Links to alert messages:</p><a href="#gdcalert1">alert1</a>
+Lead us in the truth about the Beloved, and set us free to rejoice with
+all our might over the great mystery you have revealed:  that you are
+bringing all things into harmony through Jesus Christ the Lord. **Amen.**
 
-<p style="color: red; font-weight: bold">>>>>> PLEASE check and correct alert issues and delete this message and the inline alerts.<hr></p>
 
+## 🎶 HYMN
+### **Ⓑ All Glory, Laud, and Honor #280**
+### **Ⓜ Part of the Family**
 
+# PROCLAMATION & RESPONSE
 
-# 
+## PSALM[^3] - Psalm 24
 
-<p id="gdcalert1" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image1.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert2">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+The earth belongs to God, along with everything on it. \
+Every person, every animal, every plant. \
+God made the seas and put the rivers in their banks.\
+**Who is full of glory? The Lord our God, that’s who. **\
+So, who are we to think we can go to God’s house?\
+Who are we to talk to God’s face? \
+We have clean hands and pure hearts, and we tell the truth. \
+That’s who can spend time with God. \
+**Who is full of glory? The Lord our God, that’s who. **\
+God will bless us. \
+Open up your gates. \
+Break down the doors. \
+Here comes God. \
+You ask, who is full of glory? The Lord our God, that’s who. \
+Open up your gates. Break down the doors. \
+Our God is full of glory. \
+Again you ask, who is it again? \
+**Who is full of glory? The Lord our God is full of glory.**
 
+## CHILDREN’S SERMON
 
-![alt_text](images/image1.jpg "image_tooltip")
+## INTERCESSORY PRAYERS
 
+## 🎶 DOXOLOGY - #95
 
+**Praise God, from whom all blessings flow;**\
+**praise him, all creatures here below;**\
+**praise him above, ye heavenly host;**\
+**praise Father, Son, and Holy Ghost. Amen.**
 
-# Bellflower & Mt Vernon UMC
-
-
-#### July 11, 2021	Seventh Sunday After Pentecost
-
-
-# 
-
-
-# GREETINGS[^1]
-
-
-# ANNOUNCEMENTS
-
-
-# BIRTHDAYS AND ANNIVERSARIES
-
-
-# PRELUDE & CANDLE LIGHTING
-
-
-# OPENING PRAYER[^2]
-
-
-## Holy Trinity, yours is the justice \
-that calls power to account.
-
-
-## Yours is the love \
-that calls sinners to repent.
-
-
-## Yours is the mercy \
-that forgives us and grants us eternal life.
-
-
-## Lead us in the truth about the Beloved, and set us free to rejoice with all our might over the great mystery you have revealed:  that you are bringing all things into harmony through Jesus Christ the Lord. **Amen.**
-
-
-# 🎶 HYMN
-
-
-## **Ⓑ All Glory, Laud, and Honor #280**
-
-
-## **Ⓜ Part of the Family**
-
-
-# PSALM[^3] - Psalm 24
-
-
-## The earth belongs to God, along with everything on it. 
-
-
-## Every person, every animal, every plant. 
-
-
-## God made the seas and put the rivers in their banks.
-
-
-## **Who is full of glory? The Lord our God, that’s who. **
-
-
-## So, who are we to think we can go to God’s house?
-
-
-## Who are we to talk to God’s face? 
-
-
-## We have clean hands and pure hearts, and we tell the truth. 
-
-
-## That’s who can spend time with God. 
-
-
-## **Who is full of glory? The Lord our God, that’s who. **
-
-
-## God will bless us. 
-
-
-## Open up your gates. 
-
-
-## Break down the doors. 
-
-
-## Here comes God. 
-
-
-## You ask, who is full of glory? The Lord our God, that’s who. 
-
-
-## Open up your gates. Break down the doors. 
-
-
-## Our God is full of glory. 
-
-
-## Again you ask, who is it again? 
-
-
-## **Who is full of glory? The Lord our God is full of glory.**
-
-
-# CHILDREN’S SERMON
-
-
-# INTERCESSORY PRAYERS
-
-
-# 🎶 DOXOLOGY - #95
-
-
-## **Praise God, from whom all blessings flow;**
-
-
-## **praise him, all creatures here below;**
-
-
-## **praise him above, ye heavenly host;**
-
-
-## **praise Father, Son, and Holy Ghost. Amen.**
-
-
-# PRAYER FOR ILLUMINATION
-
+## PRAYER FOR ILLUMINATION
 
 ## Spirit of the living God, \
 seal in us your Word of truth, \
@@ -183,52 +76,40 @@ and joyfully serve \
 our Lord Jesus Christ, \
 for it is in his name that we pray. **Amen**.
 
+## NT READING - Ephesians 1:3-14
 
-# NT READING - Ephesians 1:3-14
+## GOSPEL - Mark 6:14-29
 
+## SERMON 
 
-# GOSPEL - Mark 6:14-29
-
-
-# SERMON 
-
-
-# 🎶 HYMN - #369
+## 🎶 HYMN - #369
 
 
-## **Blessed Assurance, Jesus Is Mine 369**
+### **Blessed Assurance, Jesus Is Mine**
+
+# THANKSGIVING & COMMUNION
+
+## CONFESSION & PARDON - UMH12
+
+## PEACE & OFFERING
+
+## HOLY COMMUNION - UMH13 or UMH17
 
 
-# CONFESSION & PARDON - UMH12
+# SENDING FORTH
+
+## 🎶 HYMN
+### **Ⓜ Blind Man**
+
+## POSTLUDE
+
+## CHARGE & BLESSING
 
 
-# HOLY COMMUNION - UMH13 or UMH17
-
-
-# 🎶 HYMN
-
-
-## **Ⓜ Blind Man**
-
-
-# POSTLUDE
-
-
-# CHARGE & BLESSING
-
-
-## May the Holy Trinity fill you with joy,
-
-
-## surround you with peace,
-
-
-## and lead you to eternal life.
-
-
-## Go in peace.
-
-
+May the Holy Trinity fill you with joy,\
+surround you with peace,\
+and lead you to eternal life.\
+Go in peace.
 
 ---
 
