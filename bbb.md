@@ -39,12 +39,12 @@ bringing all things into harmony through Jesus Christ the Lord. **Amen.**
 The earth belongs to God, along with everything on it. \
 Every person, every animal, every plant. \
 God made the seas and put the rivers in their banks.\
-**Who is full of glory? The Lord our God, that’s who. **\
+**Who is full of glory? The Lord our God, that’s who.** \
 So, who are we to think we can go to God’s house?\
 Who are we to talk to God’s face? \
 We have clean hands and pure hearts, and we tell the truth. \
 That’s who can spend time with God. \
-**Who is full of glory? The Lord our God, that’s who. **\
+**Who is full of glory? The Lord our God, that’s who.** \
 God will bless us. \
 Open up your gates. \
 Break down the doors. \
@@ -68,7 +68,7 @@ Again you ask, who is it again? \
 
 ## PRAYER FOR ILLUMINATION
 
-## Spirit of the living God, \
+Spirit of the living God, \
 seal in us your Word of truth, \
 the gospel of salvation, \
 so that we can faithfully follow \
